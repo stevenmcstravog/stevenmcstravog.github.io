@@ -2,7 +2,7 @@ const portfolioProjects = [
     {
         title: "Minimal Portfolio",
         description: "Created in React with React Bootstrap. Simple clean and minimal.",
-        githubLink: "http://stevenmcstravog.github.io/",
+        githubLink: "https://github.com/stevenmcstravog/stevenmcstravog.github.io",
         demoLink: "http://stevenmcstravog.github.io/"
     }
 ]
