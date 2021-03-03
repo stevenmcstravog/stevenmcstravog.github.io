@@ -4,6 +4,12 @@ const portfolioProjects = [
         description: "Created in React with React Bootstrap. Simple clean and minimal.",
         githubLink: "https://github.com/stevenmcstravog/stevenmcstravog.github.io",
         demoLink: "http://stevenmcstravog.github.io/"
+    },
+    {
+        title: "Horror Movie Quiz",
+        description: "Created in React with React Bootstrap. Using useState and useEffect with a simple JS shuffle to mix the questions.",
+        githubLink: "https://github.com/stevenmcstravog/horror-movie-quiz",
+        demoLink: "https://stevenmcstravog.github.io/horror-movie-quiz/"
     }
 ]
 

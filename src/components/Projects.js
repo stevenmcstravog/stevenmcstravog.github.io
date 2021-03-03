@@ -3,7 +3,7 @@ import { Card } from 'react-bootstrap';
 import { portfolioProjects } from './Constants';
 
 const ProjectCard = ({ title, description, githubLink, demoLink}) =>
-    <Card>
+    <Card className="mb-3">
         <Card.Body>
             <Card.Title>{title}</Card.Title>
             <Card.Text>{description}</Card.Text>

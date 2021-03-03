@@ -60,10 +60,10 @@ footer {
 .v-center {
     display: flex;
     align-items: center;
- }
+}
 
- @media only screen and (max-width: 1050px) and (min-width: 400px) {
+@media only screen and (max-width: 1050px) {
     .content {
         width: 88%;
     }
- }
+}
